@@ -1,0 +1,1 @@
+The work involved setting up Spark, loading and preprocessing data, and performing K-means and Bisecting K-means clustering. The clustering algorithms were applied to a dataset, and the results, including cluster centers and evaluation metrics, were obtained.
