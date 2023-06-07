@@ -1,0 +1,1 @@
+The chained MapReduce methodology ensures that the top N words are processed efficiently in a distributed environment. It leverages two stages of MapReduce jobs to first calculate the local top N words and then the global top N words.
